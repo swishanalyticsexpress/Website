@@ -1,0 +1,358 @@
+Date,Home Team,Visitor Team,Home Team Predicted,Home Team Actual,Away Team Predicted,Away Team Actual,PredictedTotalGameScore,ActualTotalGameScore,Winner,Margin
+4/04/2023,Brooklyn Nets,Minnesota Timberwolves,106,102,109,107,215,209,Minnesota Timberwolves,3
+27/02/2024,Atlanta Hawks,Utah Jazz,109,124,110,97,219,221,Utah Jazz,1
+19/11/2022,Philadelphia 76ers,Minnesota Timberwolves,110,109,110,112,220,221,Minnesota Timberwolves,0
+27/03/2023,New York Knicks,Houston Rockets,129,137,122,115,251,252,New York Knicks,7
+23/03/2023,LA Clippers,Oklahoma City Thunder,126,127,112,105,238,232,LA Clippers,14
+28/11/2022,Philadelphia 76ers,Atlanta Hawks,105,104,107,101,212,205,Atlanta Hawks,2
+31/12/2022,Houston Rockets,New York Knicks,111,88,101,108,212,196,Houston Rockets,10
+12/02/2024,Toronto Raptors,San Antonio Spurs,118,99,107,122,225,221,Toronto Raptors,11
+25/01/2024,Brooklyn Nets,Minnesota Timberwolves,104,94,105,96,209,190,Minnesota Timberwolves,1
+23/10/2022,Cleveland Cavaliers,Washington Wizards,111,117,108,107,219,224,Cleveland Cavaliers,3
+15/03/2023,Chicago Bulls,Sacramento Kings,112,114,112,117,224,231,Sacramento Kings,0
+26/11/2023,Orlando Magic,Charlotte Hornets,121,130,115,117,236,247,Orlando Magic,6
+5/11/2022,Orlando Magic,Sacramento Kings,114,123,109,126,223,249,Orlando Magic,5
+16/03/2023,Brooklyn Nets,Sacramento Kings,112,96,105,101,217,197,Brooklyn Nets,7
+18/12/2023,Indiana Pacers,LA Clippers,128,127,116,151,244,278,Indiana Pacers,12
+25/01/2024,Miami Heat,Boston Celtics,108,110,116,143,224,253,Boston Celtics,8
+10/11/2022,Atlanta Hawks,Philadelphia 76ers,122,104,100,95,222,199,Atlanta Hawks,22
+31/01/2024,Miami Heat,Sacramento Kings,109,115,105,106,214,221,Miami Heat,4
+24/04/2024,Oklahoma City Thunder,New Orleans Pelicans,116,124,112,92,228,216,Oklahoma City Thunder,4
+18/12/2023,Cleveland Cavaliers,Houston Rockets,121,135,122,130,243,265,Houston Rockets,1
+4/02/2023,Chicago Bulls,Portland Trail Blazers,126,129,126,121,252,250,Portland Trail Blazers,0
+4/11/2023,Brooklyn Nets,Boston Celtics,108,114,125,124,233,238,Boston Celtics,17
+3/03/2024,Dallas Mavericks,Philadelphia 76ers,115,116,119,120,234,236,Philadelphia 76ers,4
+17/12/2022,Cleveland Cavaliers,Dallas Mavericks,100,100,98,99,198,199,Cleveland Cavaliers,2
+6/02/2023,Detroit Pistons,Boston Celtics,108,99,111,111,219,210,Boston Celtics,3
+16/05/2023,Denver Nuggets,Los Angeles Lakers,113,132,111,126,224,258,Denver Nuggets,2
+24/10/2023,Golden State Warriors,Phoenix Suns,108,104,110,108,218,212,Phoenix Suns,2
+7/01/2024,Cleveland Cavaliers,San Antonio Spurs,115,117,116,115,231,232,San Antonio Spurs,1
+8/02/2023,Cleveland Cavaliers,Detroit Pistons,107,113,103,85,210,198,Cleveland Cavaliers,4
+11/01/2023,Atlanta Hawks,Milwaukee Bucks,109,105,111,114,220,219,Milwaukee Bucks,2
+23/12/2022,Philadelphia 76ers,LA Clippers,127,119,120,114,247,233,Philadelphia 76ers,7
+27/12/2023,Oklahoma City Thunder,New York Knicks,117,129,114,120,231,249,Oklahoma City Thunder,3
+18/03/2024,Indiana Pacers,Cleveland Cavaliers,104,103,105,108,209,211,Cleveland Cavaliers,1
+10/01/2023,Toronto Raptors,Charlotte Hornets,113,132,119,120,232,252,Charlotte Hornets,6
+1/12/2023,Orlando Magic,Washington Wizards,120,130,119,125,239,255,Orlando Magic,1
+4/03/2024,Brooklyn Nets,Memphis Grizzlies,107,102,108,106,215,208,Memphis Grizzlies,1
+9/01/2024,Orlando Magic,Minnesota Timberwolves,106,92,89,113,195,205,Orlando Magic,17
+11/05/2022,Boston Celtics,Milwaukee Bucks,112,107,109,110,221,217,Boston Celtics,3
+12/12/2023,LA Clippers,Sacramento Kings,123,119,96,99,219,218,LA Clippers,27
+14/04/2023,Minnesota Timberwolves,Oklahoma City Thunder,110,120,96,95,206,215,Minnesota Timberwolves,14
+14/03/2023,Oklahoma City Thunder,Brooklyn Nets,112,121,110,107,222,228,Oklahoma City Thunder,2
+10/02/2023,Boston Celtics,Charlotte Hornets,121,127,109,116,230,243,Boston Celtics,12
+20/11/2022,Phoenix Suns,New York Knicks,106,116,100,95,206,211,Phoenix Suns,6
+2/01/2023,Philadelphia 76ers,New Orleans Pelicans,116,120,119,111,235,231,New Orleans Pelicans,3
+13/12/2023,Washington Wizards,New Orleans Pelicans,132,122,132,142,264,264,New Orleans Pelicans,0
+23/03/2024,Washington Wizards,Toronto Raptors,118,112,109,109,227,221,Washington Wizards,9
+21/12/2022,Brooklyn Nets,Golden State Warriors,116,143,112,113,228,256,Brooklyn Nets,4
+6/04/2024,Los Angeles Lakers,Cleveland Cavaliers,102,116,106,97,208,213,Cleveland Cavaliers,4
+2/04/2024,Washington Wizards,Milwaukee Bucks,105,117,108,113,213,230,Milwaukee Bucks,3
+23/04/2022,Toronto Raptors,Philadelphia 76ers,115,110,116,102,231,212,Philadelphia 76ers,1
+20/11/2022,Washington Wizards,Charlotte Hornets,102,106,105,102,207,208,Charlotte Hornets,3
+14/04/2024,Indiana Pacers,Atlanta Hawks,120,157,116,115,236,272,Indiana Pacers,4
+3/11/2022,Oklahoma City Thunder,Denver Nuggets,119,110,117,122,236,232,Oklahoma City Thunder,2
+19/03/2023,Detroit Pistons,Miami Heat,111,100,113,112,224,212,Miami Heat,2
+5/05/2024,Cleveland Cavaliers,Orlando Magic,102,106,109,94,211,200,Orlando Magic,7
+15/11/2023,Chicago Bulls,Orlando Magic,100,94,99,96,199,190,Chicago Bulls,1
+30/04/2024,Cleveland Cavaliers,Orlando Magic,112,104,109,103,221,207,Cleveland Cavaliers,3
+26/12/2023,New Orleans Pelicans,Memphis Grizzlies,110,115,107,116,217,231,New Orleans Pelicans,3
+12/12/2023,Boston Celtics,Cleveland Cavaliers,125,120,120,113,245,233,Boston Celtics,5
+19/01/2024,Miami Heat,Atlanta Hawks,109,108,107,109,216,217,Miami Heat,2
+8/04/2023,Utah Jazz,Denver Nuggets,99,118,107,114,206,232,Denver Nuggets,8
+4/02/2023,New York Knicks,LA Clippers,112,128,108,134,220,262,New York Knicks,4
+28/10/2022,Orlando Magic,Charlotte Hornets,107,113,109,93,216,206,Charlotte Hornets,2
+2/12/2023,Brooklyn Nets,Orlando Magic,104,129,106,101,210,230,Orlando Magic,2
+13/05/2022,Milwaukee Bucks,Boston Celtics,108,95,106,108,214,203,Milwaukee Bucks,2
+12/03/2024,Oklahoma City Thunder,Indiana Pacers,114,111,114,121,228,232,Indiana Pacers,0
+24/01/2023,Miami Heat,Boston Celtics,105,98,109,95,214,193,Boston Celtics,4
+8/03/2023,Washington Wizards,Atlanta Hawks,115,120,113,122,228,242,Washington Wizards,2
+2/01/2023,Charlotte Hornets,Los Angeles Lakers,110,115,103,121,213,236,Charlotte Hornets,7
+27/10/2023,Boston Celtics,Miami Heat,109,119,116,111,225,230,Miami Heat,7
+15/01/2023,Chicago Bulls,Golden State Warriors,108,132,107,118,215,250,Chicago Bulls,1
+23/01/2023,Utah Jazz,Charlotte Hornets,112,120,101,102,213,222,Utah Jazz,11
+18/04/2023,Cleveland Cavaliers,New York Knicks,105,107,103,90,208,197,Cleveland Cavaliers,2
+11/12/2022,New Orleans Pelicans,Phoenix Suns,112,129,115,124,227,253,Phoenix Suns,3
+21/04/2022,Utah Jazz,Dallas Mavericks,128,118,128,126,256,244,Dallas Mavericks,0
+19/01/2023,Phoenix Suns,Brooklyn Nets,112,117,107,112,219,229,Phoenix Suns,5
+19/03/2023,Brooklyn Nets,Denver Nuggets,108,102,108,108,216,210,Denver Nuggets,0
+2/01/2024,Philadelphia 76ers,Chicago Bulls,104,110,103,97,207,207,Philadelphia 76ers,1
+12/12/2022,San Antonio Spurs,Cleveland Cavaliers,113,112,109,111,222,223,San Antonio Spurs,4
+5/12/2023,Los Angeles Lakers,Phoenix Suns,108,106,110,103,218,209,Phoenix Suns,2
+30/12/2022,Toronto Raptors,Phoenix Suns,112,113,111,104,223,217,Toronto Raptors,1
+26/04/2023,Cleveland Cavaliers,New York Knicks,107,95,107,106,214,201,New York Knicks,0
+26/02/2024,Memphis Grizzlies,Brooklyn Nets,114,86,111,111,225,197,Memphis Grizzlies,3
+23/03/2023,New Orleans Pelicans,Charlotte Hornets,121,115,114,96,235,211,New Orleans Pelicans,7
+27/12/2022,Washington Wizards,Philadelphia 76ers,117,116,118,111,235,227,Philadelphia 76ers,1
+14/02/2023,Toronto Raptors,Orlando Magic,118,123,118,113,236,236,Orlando Magic,0
+27/03/2024,Washington Wizards,Brooklyn Nets,112,119,112,122,224,241,Brooklyn Nets,0
+25/03/2024,Toronto Raptors,Brooklyn Nets,103,88,100,96,203,184,Toronto Raptors,3
+16/11/2022,Toronto Raptors,Miami Heat,118,112,115,104,233,216,Toronto Raptors,3
+16/12/2022,Philadelphia 76ers,Golden State Warriors,109,118,95,106,204,224,Philadelphia 76ers,14
+14/03/2024,Chicago Bulls,LA Clippers,117,111,117,126,234,237,LA Clippers,0
+6/03/2023,Cleveland Cavaliers,Boston Celtics,112,118,110,114,222,232,Cleveland Cavaliers,2
+3/03/2023,Charlotte Hornets,Orlando Magic,112,106,111,117,223,223,Charlotte Hornets,1
+27/04/2024,Miami Heat,Boston Celtics,102,84,107,104,209,188,Boston Celtics,5
+28/02/2024,Denver Nuggets,Sacramento Kings,114,114,101,96,215,210,Denver Nuggets,13
+3/02/2023,Boston Celtics,Phoenix Suns,112,94,114,106,226,200,Phoenix Suns,2
+13/11/2022,Cleveland Cavaliers,Minnesota Timberwolves,119,124,117,129,236,253,Cleveland Cavaliers,2
+24/10/2022,Chicago Bulls,Boston Celtics,115,120,107,102,222,222,Chicago Bulls,8
+11/12/2023,Atlanta Hawks,Denver Nuggets,122,122,123,129,245,251,Denver Nuggets,1
+4/02/2023,New Orleans Pelicans,Los Angeles Lakers,114,131,117,126,231,257,Los Angeles Lakers,3
+12/12/2022,Washington Wizards,Brooklyn Nets,110,100,114,112,224,212,Brooklyn Nets,4
+27/03/2023,Utah Jazz,Phoenix Suns,115,103,117,117,232,220,Phoenix Suns,2
+16/02/2023,Chicago Bulls,Milwaukee Bucks,105,100,115,112,220,212,Milwaukee Bucks,10
+28/01/2023,Atlanta Hawks,LA Clippers,121,113,119,120,240,233,Atlanta Hawks,2
+16/12/2022,Detroit Pistons,Sacramento Kings,115,113,112,122,227,235,Detroit Pistons,3
+23/01/2024,Oklahoma City Thunder,Portland Trail Blazers,111,111,109,109,220,220,Oklahoma City Thunder,2
+25/02/2023,Charlotte Hornets,Miami Heat,102,108,106,103,208,211,Miami Heat,4
+25/12/2023,Los Angeles Lakers,Boston Celtics,113,115,116,126,229,241,Boston Celtics,3
+22/10/2022,Philadelphia 76ers,San Antonio Spurs,125,105,120,114,245,219,Philadelphia 76ers,5
+29/12/2023,Washington Wizards,Brooklyn Nets,105,110,110,104,215,214,Brooklyn Nets,5
+23/02/2024,Philadelphia 76ers,Cleveland Cavaliers,108,104,106,97,214,201,Philadelphia 76ers,2
+14/01/2023,Charlotte Hornets,Boston Celtics,103,106,119,122,222,228,Boston Celtics,16
+1/05/2024,Boston Celtics,Miami Heat,116,118,101,84,217,202,Boston Celtics,15
+7/04/2024,Indiana Pacers,Miami Heat,106,117,115,115,221,232,Miami Heat,9
+17/01/2023,LA Clippers,Philadelphia 76ers,122,110,120,120,242,230,LA Clippers,2
+15/11/2022,Dallas Mavericks,LA Clippers,119,103,111,101,230,204,Dallas Mavericks,8
+4/03/2024,Utah Jazz,Washington Wizards,114,127,120,115,234,242,Washington Wizards,6
+14/12/2022,Toronto Raptors,Sacramento Kings,124,123,121,124,245,247,Toronto Raptors,3
+20/12/2023,Indiana Pacers,Charlotte Hornets,127,144,117,113,244,257,Indiana Pacers,10
+14/12/2023,Portland Trail Blazers,Utah Jazz,117,114,121,122,238,236,Utah Jazz,4
+20/03/2023,New York Knicks,Minnesota Timberwolves,133,134,127,140,260,274,New York Knicks,6
+20/12/2022,Phoenix Suns,Washington Wizards,114,110,113,113,227,223,Phoenix Suns,1
+14/01/2023,Miami Heat,Milwaukee Bucks,112,111,111,95,223,206,Miami Heat,1
+22/01/2023,Dallas Mavericks,LA Clippers,113,98,115,112,228,210,LA Clippers,2
+6/01/2024,Philadelphia 76ers,Utah Jazz,111,109,111,120,222,229,Utah Jazz,0
+9/03/2023,Orlando Magic,Utah Jazz,121,124,122,131,243,255,Utah Jazz,1
+5/02/2023,Memphis Grizzlies,Toronto Raptors,103,103,106,106,209,209,Toronto Raptors,3
+2/02/2024,Detroit Pistons,LA Clippers,128,125,128,136,256,261,LA Clippers,0
+5/02/2023,New York Knicks,Philadelphia 76ers,114,108,114,97,228,205,Philadelphia 76ers,0
+3/12/2022,Minnesota Timberwolves,Oklahoma City Thunder,113,128,114,135,227,263,Oklahoma City Thunder,1
+14/06/2024,Dallas Mavericks,Boston Celtics,112,122,113,84,225,206,Boston Celtics,1
+10/02/2023,Philadelphia 76ers,New York Knicks,122,119,123,108,245,227,New York Knicks,1
+26/10/2022,Cleveland Cavaliers,Orlando Magic,110,103,107,92,217,195,Cleveland Cavaliers,3
+9/12/2022,Indiana Pacers,Washington Wizards,128,121,125,111,253,232,Indiana Pacers,3
+11/01/2024,Dallas Mavericks,New York Knicks,119,128,118,124,237,252,Dallas Mavericks,1
+2/05/2022,Miami Heat,Philadelphia 76ers,114,106,109,92,223,198,Miami Heat,5
+28/02/2024,Toronto Raptors,Dallas Mavericks,111,125,118,136,229,261,Dallas Mavericks,7
+16/03/2024,Chicago Bulls,Washington Wizards,120,127,104,98,224,225,Chicago Bulls,16
+24/11/2023,Orlando Magic,Boston Celtics,104,113,89,96,193,209,Orlando Magic,15
+10/02/2024,Brooklyn Nets,San Antonio Spurs,125,123,114,101,239,224,Brooklyn Nets,11
+21/12/2023,Cleveland Cavaliers,New Orleans Pelicans,124,104,107,123,231,227,Cleveland Cavaliers,17
+1/01/2024,Toronto Raptors,Cleveland Cavaliers,118,124,123,121,241,245,Cleveland Cavaliers,5
+25/11/2022,Boston Celtics,Sacramento Kings,118,122,113,104,231,226,Boston Celtics,5
+10/12/2022,Washington Wizards,LA Clippers,117,107,118,114,235,221,LA Clippers,1
+7/05/2024,Oklahoma City Thunder,Dallas Mavericks,106,117,114,95,220,212,Dallas Mavericks,8
+4/01/2023,New York Knicks,San Antonio Spurs,122,117,114,114,236,231,New York Knicks,8
+22/05/2022,Dallas Mavericks,Golden State Warriors,108,100,110,109,218,209,Golden State Warriors,2
+2/05/2024,Indiana Pacers,Milwaukee Bucks,117,120,119,98,236,218,Milwaukee Bucks,2
+11/03/2024,San Antonio Spurs,Golden State Warriors,111,102,111,112,222,214,Golden State Warriors,0
+17/05/2022,Miami Heat,Boston Celtics,108,118,107,107,215,225,Miami Heat,1
+13/05/2022,Golden State Warriors,Memphis Grizzlies,109,110,106,96,215,206,Golden State Warriors,3
+9/02/2023,Orlando Magic,Denver Nuggets,102,115,104,104,206,219,Denver Nuggets,2
+2/12/2023,Charlotte Hornets,Minnesota Timberwolves,114,117,113,123,227,240,Charlotte Hornets,1
+14/02/2023,Milwaukee Bucks,Boston Celtics,114,131,119,125,233,256,Boston Celtics,5
+21/11/2023,Los Angeles Lakers,Utah Jazz,118,131,96,99,214,230,Los Angeles Lakers,22
+27/12/2022,Boston Celtics,Houston Rockets,115,126,109,102,224,228,Boston Celtics,6
+14/03/2024,Oklahoma City Thunder,Dallas Mavericks,129,126,121,119,250,245,Oklahoma City Thunder,8
+29/05/2023,Boston Celtics,Miami Heat,102,84,104,103,206,187,Miami Heat,2
+25/02/2023,Orlando Magic,Indiana Pacers,112,108,110,121,222,229,Orlando Magic,2
+7/05/2023,Phoenix Suns,Denver Nuggets,112,129,115,124,227,253,Denver Nuggets,3
+2/04/2024,Philadelphia 76ers,Oklahoma City Thunder,114,109,105,105,219,214,Philadelphia 76ers,9
+22/12/2023,Sacramento Kings,Phoenix Suns,113,120,113,105,226,225,Phoenix Suns,0
+20/05/2022,Golden State Warriors,Dallas Mavericks,114,126,115,117,229,243,Dallas Mavericks,1
+1/03/2024,Philadelphia 76ers,Charlotte Hornets,118,121,119,114,237,235,Charlotte Hornets,1
+17/01/2024,New York Knicks,Houston Rockets,105,109,108,94,213,203,Houston Rockets,3
+13/05/2024,Cleveland Cavaliers,Boston Celtics,112,102,109,109,221,211,Cleveland Cavaliers,3
+30/01/2023,San Antonio Spurs,Washington Wizards,114,106,119,127,233,233,Washington Wizards,5
+14/05/2024,Denver Nuggets,Minnesota Timberwolves,107,112,105,97,212,209,Denver Nuggets,2
+7/12/2022,Brooklyn Nets,Charlotte Hornets,126,122,127,116,253,238,Charlotte Hornets,1
+6/01/2023,Indiana Pacers,Portland Trail Blazers,109,108,105,99,214,207,Indiana Pacers,4
+20/01/2024,Atlanta Hawks,Cleveland Cavaliers,107,95,101,116,208,211,Atlanta Hawks,6
+8/11/2023,Charlotte Hornets,Washington Wizards,116,116,120,132,236,248,Washington Wizards,4
+14/12/2022,Chicago Bulls,New York Knicks,124,120,128,128,252,248,New York Knicks,4
+1/05/2023,Denver Nuggets,Phoenix Suns,102,97,100,87,202,184,Denver Nuggets,2
+23/04/2022,Utah Jazz,Dallas Mavericks,104,100,107,99,211,199,Dallas Mavericks,3
+6/06/2024,Boston Celtics,Dallas Mavericks,117,107,115,89,232,196,Boston Celtics,2
+20/04/2024,Denver Nuggets,Los Angeles Lakers,118,114,119,103,237,217,Los Angeles Lakers,1
+11/03/2023,Orlando Magic,Miami Heat,110,126,106,114,216,240,Orlando Magic,4
+17/11/2023,Toronto Raptors,Boston Celtics,103,105,111,108,214,213,Boston Celtics,8
+2/03/2024,Brooklyn Nets,Atlanta Hawks,105,114,115,102,220,216,Atlanta Hawks,10
+31/01/2024,Washington Wizards,LA Clippers,121,109,132,125,253,234,LA Clippers,11
+20/10/2022,Philadelphia 76ers,Milwaukee Bucks,109,88,106,90,215,178,Philadelphia 76ers,3
+3/01/2023,Utah Jazz,Sacramento Kings,110,115,106,117,216,232,Utah Jazz,4
+3/02/2024,Dallas Mavericks,Milwaukee Bucks,121,117,121,129,242,246,Milwaukee Bucks,0
+7/06/2023,Miami Heat,Denver Nuggets,107,94,107,109,214,203,Denver Nuggets,0
+16/03/2024,Philadelphia 76ers,Charlotte Hornets,115,109,111,98,226,207,Philadelphia 76ers,4
+19/12/2022,Minnesota Timberwolves,Dallas Mavericks,121,116,114,106,235,222,Minnesota Timberwolves,7
+5/11/2023,Dallas Mavericks,Charlotte Hornets,117,124,112,118,229,242,Dallas Mavericks,5
+4/11/2022,Washington Wizards,Brooklyn Nets,112,86,127,128,239,214,Brooklyn Nets,15
+3/02/2024,Philadelphia 76ers,Brooklyn Nets,120,121,115,136,235,257,Philadelphia 76ers,5
+23/04/2023,Minnesota Timberwolves,Denver Nuggets,105,114,104,108,209,222,Minnesota Timberwolves,1
+11/02/2023,Charlotte Hornets,Denver Nuggets,106,105,114,119,220,224,Denver Nuggets,8
+1/12/2023,Dallas Mavericks,Memphis Grizzlies,106,94,98,108,204,202,Dallas Mavericks,8
+22/04/2024,Denver Nuggets,Los Angeles Lakers,104,101,106,99,210,200,Los Angeles Lakers,2
+12/01/2023,Miami Heat,Milwaukee Bucks,105,108,105,102,210,210,Milwaukee Bucks,0
+26/04/2024,Dallas Mavericks,LA Clippers,110,101,109,90,219,191,Dallas Mavericks,1
+25/01/2023,New Orleans Pelicans,Minnesota Timberwolves,113,102,122,111,235,213,Minnesota Timberwolves,9
+1/04/2023,Miami Heat,Dallas Mavericks,117,129,119,122,236,251,Dallas Mavericks,2
+24/04/2022,Chicago Bulls,Milwaukee Bucks,105,95,106,119,211,214,Milwaukee Bucks,1
+18/01/2024,Minnesota Timberwolves,Memphis Grizzlies,110,118,107,103,217,221,Minnesota Timberwolves,3
+9/01/2024,Detroit Pistons,Sacramento Kings,119,110,116,131,235,241,Detroit Pistons,3
+23/11/2022,Charlotte Hornets,Philadelphia 76ers,107,107,106,101,213,208,Charlotte Hornets,1
+14/11/2022,Miami Heat,Phoenix Suns,113,113,114,112,227,225,Phoenix Suns,1
+24/02/2024,Minnesota Timberwolves,Brooklyn Nets,101,101,99,86,200,187,Minnesota Timberwolves,2
+22/11/2022,Philadelphia 76ers,Brooklyn Nets,102,115,111,106,213,221,Brooklyn Nets,9
+9/11/2022,Charlotte Hornets,Portland Trail Blazers,115,95,112,105,227,200,Charlotte Hornets,3
+21/01/2023,Cleveland Cavaliers,Milwaukee Bucks,120,114,116,102,236,216,Cleveland Cavaliers,4
+29/10/2023,Philadelphia 76ers,Portland Trail Blazers,114,126,110,98,224,224,Philadelphia 76ers,4
+12/01/2024,Detroit Pistons,Houston Rockets,114,110,115,112,229,222,Houston Rockets,1
+28/04/2022,Toronto Raptors,Philadelphia 76ers,111,97,118,132,229,229,Philadelphia 76ers,7
+23/04/2024,Milwaukee Bucks,Indiana Pacers,114,108,108,125,222,233,Milwaukee Bucks,6
+24/04/2023,Miami Heat,Milwaukee Bucks,112,119,112,114,224,233,Milwaukee Bucks,0
+23/12/2022,Orlando Magic,San Antonio Spurs,120,133,118,113,238,246,Orlando Magic,2
+31/12/2023,Memphis Grizzlies,Sacramento Kings,115,92,104,123,219,215,Memphis Grizzlies,11
+11/11/2022,San Antonio Spurs,Milwaukee Bucks,110,111,108,93,218,204,San Antonio Spurs,2
+1/03/2024,Detroit Pistons,Cleveland Cavaliers,108,100,107,110,215,210,Detroit Pistons,1
+21/01/2024,Phoenix Suns,Indiana Pacers,115,117,110,110,225,227,Phoenix Suns,5
+25/11/2023,Washington Wizards,Atlanta Hawks,112,108,118,136,230,244,Atlanta Hawks,6
+8/05/2022,Dallas Mavericks,Phoenix Suns,115,111,106,101,221,212,Dallas Mavericks,9
+26/04/2024,Indiana Pacers,Milwaukee Bucks,116,121,118,118,234,239,Milwaukee Bucks,2
+31/12/2022,Chicago Bulls,Cleveland Cavaliers,116,102,113,103,229,205,Chicago Bulls,3
+23/01/2023,Orlando Magic,Boston Celtics,110,113,107,98,217,211,Orlando Magic,3
+24/11/2023,Toronto Raptors,Chicago Bulls,118,121,116,108,234,229,Toronto Raptors,2
+2/12/2023,LA Clippers,Golden State Warriors,111,113,111,112,222,225,Golden State Warriors,0
+25/02/2023,Detroit Pistons,Toronto Raptors,106,91,111,95,217,186,Toronto Raptors,5
+4/02/2023,Detroit Pistons,Phoenix Suns,107,100,110,116,217,216,Phoenix Suns,3
+13/02/2024,Brooklyn Nets,Boston Celtics,125,110,125,118,250,228,Boston Celtics,0
+14/01/2024,Portland Trail Blazers,Phoenix Suns,122,116,126,127,248,243,Phoenix Suns,4
+25/10/2022,Washington Wizards,Detroit Pistons,117,120,108,99,225,219,Washington Wizards,9
+6/04/2023,Utah Jazz,Oklahoma City Thunder,109,98,105,114,214,212,Utah Jazz,4
+7/03/2024,Indiana Pacers,Minnesota Timberwolves,123,111,119,113,242,224,Indiana Pacers,4
+5/12/2022,Charlotte Hornets,LA Clippers,113,117,116,119,229,236,LA Clippers,3
+24/03/2023,Memphis Grizzlies,Houston Rockets,112,151,119,114,231,265,Houston Rockets,7
+29/11/2022,Portland Trail Blazers,LA Clippers,125,112,133,118,258,230,LA Clippers,8
+14/01/2023,Toronto Raptors,Atlanta Hawks,114,103,113,114,227,217,Toronto Raptors,1
+23/02/2024,Oklahoma City Thunder,Washington Wizards,124,147,107,106,231,253,Oklahoma City Thunder,17
+27/03/2024,Philadelphia 76ers,LA Clippers,115,107,114,108,229,215,Philadelphia 76ers,1
+13/12/2023,Detroit Pistons,Philadelphia 76ers,124,111,112,129,236,240,Detroit Pistons,12
+5/01/2024,Brooklyn Nets,Oklahoma City Thunder,103,124,115,115,218,239,Oklahoma City Thunder,12
+14/01/2023,Minnesota Timberwolves,Cleveland Cavaliers,116,110,107,102,223,212,Minnesota Timberwolves,9
+28/01/2024,Detroit Pistons,Oklahoma City Thunder,120,120,123,104,243,224,Oklahoma City Thunder,3
+22/03/2023,Chicago Bulls,Philadelphia 76ers,99,91,110,116,209,207,Philadelphia 76ers,11
+2/12/2023,Miami Heat,Indiana Pacers,128,129,128,144,256,273,Indiana Pacers,0
+24/03/2023,Dallas Mavericks,Charlotte Hornets,109,109,104,117,213,226,Dallas Mavericks,5
+8/01/2024,Charlotte Hornets,Chicago Bulls,109,112,118,119,227,231,Chicago Bulls,9
+12/03/2024,San Antonio Spurs,Houston Rockets,111,101,112,103,223,204,Houston Rockets,1
+9/03/2024,Phoenix Suns,Boston Celtics,105,107,107,117,212,224,Boston Celtics,2
+17/04/2023,Sacramento Kings,Golden State Warriors,116,114,117,106,233,220,Golden State Warriors,1
+22/01/2024,Toronto Raptors,Memphis Grizzlies,104,100,107,108,211,208,Memphis Grizzlies,3
+8/02/2024,New York Knicks,Dallas Mavericks,116,108,118,122,234,230,Dallas Mavericks,2
+9/03/2024,Detroit Pistons,Dallas Mavericks,114,124,126,142,240,266,Dallas Mavericks,12
+13/05/2024,Dallas Mavericks,Oklahoma City Thunder,102,96,101,100,203,196,Dallas Mavericks,1
+20/12/2023,Cleveland Cavaliers,Utah Jazz,117,124,117,116,234,240,Utah Jazz,0
+8/01/2023,Toronto Raptors,Portland Trail Blazers,111,117,109,105,220,222,Toronto Raptors,2
+12/05/2022,Dallas Mavericks,Phoenix Suns,112,113,97,86,209,199,Dallas Mavericks,15
+15/12/2022,LA Clippers,Phoenix Suns,104,95,114,111,218,206,Phoenix Suns,10
+7/04/2023,Indiana Pacers,Detroit Pistons,121,115,116,122,237,237,Indiana Pacers,5
+13/12/2023,Toronto Raptors,Atlanta Hawks,122,135,122,128,244,263,Atlanta Hawks,0
+31/03/2023,Washington Wizards,Orlando Magic,106,109,108,116,214,225,Orlando Magic,2
+6/01/2024,Houston Rockets,Milwaukee Bucks,120,112,120,108,240,220,Milwaukee Bucks,0
+11/11/2023,Orlando Magic,Milwaukee Bucks,108,112,104,97,212,209,Orlando Magic,4
+12/12/2023,Chicago Bulls,Denver Nuggets,106,106,108,114,214,220,Denver Nuggets,2
+12/03/2023,Charlotte Hornets,Cleveland Cavaliers,106,108,110,114,216,222,Cleveland Cavaliers,4
+5/12/2022,Atlanta Hawks,Oklahoma City Thunder,110,114,115,121,225,235,Oklahoma City Thunder,5
+15/03/2024,Charlotte Hornets,Phoenix Suns,107,96,116,107,223,203,Phoenix Suns,9
+30/03/2024,Atlanta Hawks,Milwaukee Bucks,121,113,122,122,243,235,Milwaukee Bucks,1
+28/12/2023,Boston Celtics,Detroit Pistons,122,128,117,122,239,250,Boston Celtics,5
+21/03/2024,Houston Rockets,Chicago Bulls,117,127,119,117,236,244,Chicago Bulls,2
+21/03/2024,Milwaukee Bucks,Brooklyn Nets,113,115,106,108,219,223,Milwaukee Bucks,7
+29/02/2024,Brooklyn Nets,Atlanta Hawks,107,124,119,97,226,221,Atlanta Hawks,12
+9/02/2024,Philadelphia 76ers,Atlanta Hawks,120,121,119,127,239,248,Philadelphia 76ers,1
+17/12/2022,LA Clippers,Washington Wizards,111,102,112,93,223,195,Washington Wizards,1
+8/01/2023,Indiana Pacers,Charlotte Hornets,110,116,104,111,214,227,Indiana Pacers,6
+22/03/2024,Minnesota Timberwolves,Cleveland Cavaliers,105,104,102,91,207,195,Minnesota Timberwolves,3
+12/06/2023,Denver Nuggets,Miami Heat,97,94,97,89,194,183,Miami Heat,0
+26/03/2024,Miami Heat,Golden State Warriors,113,92,109,113,222,205,Miami Heat,4
+26/11/2022,San Antonio Spurs,Los Angeles Lakers,128,138,133,143,261,281,Los Angeles Lakers,5
+24/03/2023,Boston Celtics,Indiana Pacers,117,120,107,95,224,215,Boston Celtics,10
+21/11/2022,Chicago Bulls,Boston Celtics,111,121,113,107,224,228,Boston Celtics,2
+27/02/2023,Charlotte Hornets,Detroit Pistons,110,117,114,106,224,223,Detroit Pistons,4
+27/01/2023,Indiana Pacers,Milwaukee Bucks,121,131,124,141,245,272,Milwaukee Bucks,3
+2/04/2024,Minnesota Timberwolves,Houston Rockets,120,113,116,106,236,219,Minnesota Timberwolves,4
+5/04/2024,Chicago Bulls,New York Knicks,109,108,106,100,215,208,Chicago Bulls,3
+7/02/2023,Brooklyn Nets,Phoenix Suns,110,112,110,116,220,228,Phoenix Suns,0
+15/11/2023,Atlanta Hawks,New York Knicks,126,114,124,116,250,230,Atlanta Hawks,2
+15/05/2022,Boston Celtics,Milwaukee Bucks,105,109,113,81,218,190,Milwaukee Bucks,8
+25/01/2023,Milwaukee Bucks,Denver Nuggets,113,107,104,99,217,206,Milwaukee Bucks,9
+26/11/2022,Houston Rockets,Oklahoma City Thunder,113,118,108,105,221,223,Houston Rockets,5
+3/05/2022,Boston Celtics,Milwaukee Bucks,101,109,101,86,202,195,Milwaukee Bucks,0
+19/12/2022,Philadelphia 76ers,Toronto Raptors,114,104,103,101,217,205,Philadelphia 76ers,11
+9/11/2023,Orlando Magic,Atlanta Hawks,119,119,116,120,235,239,Orlando Magic,3
+25/10/2023,Indiana Pacers,Washington Wizards,125,143,101,120,226,263,Indiana Pacers,24
+10/03/2024,Atlanta Hawks,New Orleans Pelicans,116,103,112,116,228,219,Atlanta Hawks,4
+11/03/2024,Detroit Pistons,Charlotte Hornets,104,114,109,97,213,211,Charlotte Hornets,5
+29/01/2024,Brooklyn Nets,Utah Jazz,119,147,126,114,245,261,Utah Jazz,7
+1/02/2023,Boston Celtics,Brooklyn Nets,131,139,111,96,242,235,Boston Celtics,20
+30/12/2022,Milwaukee Bucks,Minnesota Timberwolves,114,123,109,114,223,237,Milwaukee Bucks,5
+6/12/2022,Denver Nuggets,Dallas Mavericks,112,115,112,116,224,231,Dallas Mavericks,0
+10/04/2024,Cleveland Cavaliers,Memphis Grizzlies,104,110,97,98,201,208,Cleveland Cavaliers,7
+11/04/2024,Sacramento Kings,New Orleans Pelicans,121,123,122,135,243,258,New Orleans Pelicans,1
+28/01/2023,Orlando Magic,Chicago Bulls,119,109,119,128,238,237,Chicago Bulls,0
+24/05/2024,Minnesota Timberwolves,Dallas Mavericks,111,108,114,109,225,217,Dallas Mavericks,3
+4/01/2024,San Antonio Spurs,Milwaukee Bucks,117,121,124,125,241,246,Milwaukee Bucks,7
+13/01/2023,Washington Wizards,New York Knicks,109,108,115,112,224,220,New York Knicks,6
+17/01/2023,Denver Nuggets,Portland Trail Blazers,110,122,102,113,212,235,Denver Nuggets,8
+23/12/2023,LA Clippers,Boston Celtics,123,108,109,145,232,253,LA Clippers,14
+29/10/2022,Milwaukee Bucks,Atlanta Hawks,123,123,120,115,243,238,Milwaukee Bucks,3
+28/04/2023,Golden State Warriors,Sacramento Kings,109,99,107,118,216,217,Golden State Warriors,2
+9/02/2023,Brooklyn Nets,Chicago Bulls,107,116,103,105,210,221,Brooklyn Nets,4
+6/04/2024,Memphis Grizzlies,Philadelphia 76ers,106,96,106,116,212,212,Philadelphia 76ers,0
+6/05/2024,Denver Nuggets,Minnesota Timberwolves,106,80,104,106,210,186,Denver Nuggets,2
+2/01/2023,New York Knicks,Phoenix Suns,113,102,116,83,229,185,Phoenix Suns,3
+25/04/2024,Orlando Magic,Cleveland Cavaliers,113,121,103,83,216,204,Orlando Magic,10
+28/11/2022,Toronto Raptors,Cleveland Cavaliers,96,100,92,88,188,188,Toronto Raptors,4
+9/11/2022,Boston Celtics,Detroit Pistons,119,128,109,112,228,240,Boston Celtics,10
+19/03/2023,Oklahoma City Thunder,Phoenix Suns,125,124,119,120,244,244,Oklahoma City Thunder,6
+21/11/2022,Minnesota Timberwolves,Miami Heat,100,105,98,101,198,206,Minnesota Timberwolves,2
+17/11/2023,Atlanta Hawks,Philadelphia 76ers,128,116,128,126,256,242,Philadelphia 76ers,0
+19/11/2023,Indiana Pacers,Orlando Magic,120,116,129,128,249,244,Orlando Magic,9
+6/04/2024,Denver Nuggets,Atlanta Hawks,120,142,94,110,214,252,Denver Nuggets,26
+24/01/2023,Indiana Pacers,Chicago Bulls,114,116,112,110,226,226,Indiana Pacers,2
+22/05/2024,Minnesota Timberwolves,Dallas Mavericks,112,105,107,108,219,213,Minnesota Timberwolves,5
+10/01/2024,Atlanta Hawks,Philadelphia 76ers,122,139,126,132,248,271,Philadelphia 76ers,4
+25/04/2023,Phoenix Suns,LA Clippers,121,136,128,130,249,266,LA Clippers,7
+4/04/2024,New York Knicks,Sacramento Kings,128,120,122,109,250,229,New York Knicks,6
+20/03/2024,Detroit Pistons,Indiana Pacers,116,103,96,122,212,225,Detroit Pistons,20
+14/01/2024,Denver Nuggets,Indiana Pacers,109,117,112,109,221,226,Indiana Pacers,3
+23/11/2022,Boston Celtics,Dallas Mavericks,120,125,113,112,233,237,Boston Celtics,7
+21/03/2024,Orlando Magic,New Orleans Pelicans,114,121,110,106,224,227,Orlando Magic,4
+17/12/2023,Phoenix Suns,Washington Wizards,114,112,112,108,226,220,Phoenix Suns,2
+6/04/2023,Phoenix Suns,Denver Nuggets,127,119,127,115,254,234,Denver Nuggets,0
+12/05/2023,Los Angeles Lakers,Golden State Warriors,111,122,117,101,228,223,Golden State Warriors,6
+6/12/2023,Cleveland Cavaliers,Orlando Magic,112,121,112,111,224,232,Orlando Magic,0
+20/12/2022,Denver Nuggets,Memphis Grizzlies,110,105,104,91,214,196,Denver Nuggets,6
+15/03/2024,New Orleans Pelicans,LA Clippers,124,112,116,104,240,216,New Orleans Pelicans,8
+11/02/2023,Orlando Magic,Miami Heat,109,103,106,107,215,210,Orlando Magic,3
+25/02/2024,Philadelphia 76ers,Milwaukee Bucks,125,98,115,119,240,217,Philadelphia 76ers,10
+20/11/2023,Charlotte Hornets,Boston Celtics,113,121,115,118,228,239,Boston Celtics,2
+5/03/2024,Miami Heat,Detroit Pistons,114,118,114,110,228,228,Detroit Pistons,0
+8/03/2024,New York Knicks,Orlando Magic,107,98,103,72,210,170,New York Knicks,4
+5/11/2022,Charlotte Hornets,Brooklyn Nets,106,94,102,98,208,192,Charlotte Hornets,4
+17/01/2023,San Antonio Spurs,Brooklyn Nets,103,106,100,98,203,204,San Antonio Spurs,3
+10/01/2024,Charlotte Hornets,Sacramento Kings,113,98,121,123,234,221,Sacramento Kings,8
+27/04/2024,Los Angeles Lakers,Denver Nuggets,106,119,110,108,216,227,Denver Nuggets,4
+5/12/2022,Orlando Magic,Milwaukee Bucks,108,102,103,109,211,211,Orlando Magic,5
+9/04/2024,Atlanta Hawks,Miami Heat,97,111,105,117,202,228,Miami Heat,8
+27/02/2024,Washington Wizards,Golden State Warriors,119,112,124,123,243,235,Golden State Warriors,5
+4/01/2023,Orlando Magic,Oklahoma City Thunder,120,126,116,115,236,241,Orlando Magic,4
+26/02/2024,New York Knicks,Detroit Pistons,110,113,109,111,219,224,New York Knicks,1
+25/04/2024,Los Angeles Lakers,Denver Nuggets,104,105,112,112,216,217,Denver Nuggets,8
+19/11/2023,Dallas Mavericks,Sacramento Kings,113,113,105,129,218,242,Dallas Mavericks,8
+14/11/2023,Charlotte Hornets,Miami Heat,112,105,121,111,233,216,Miami Heat,9
+1/04/2023,New Orleans Pelicans,LA Clippers,118,122,118,114,236,236,LA Clippers,0
+24/01/2023,New York Knicks,Cleveland Cavaliers,116,105,116,103,232,208,Cleveland Cavaliers,0
+23/12/2022,Brooklyn Nets,Milwaukee Bucks,111,118,115,100,226,218,Milwaukee Bucks,4
+8/04/2023,LA Clippers,Portland Trail Blazers,128,136,121,125,249,261,LA Clippers,7
+30/01/2023,Brooklyn Nets,Los Angeles Lakers,111,121,128,104,239,225,Los Angeles Lakers,17
