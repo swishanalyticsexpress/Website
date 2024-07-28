@@ -235,7 +235,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 ${data.map(player => `
                     <tr>
                         <td>${player.Date}</td>
-                        <td>
+                        <td class="player-name">
                             ${getPlayerImage(player['Player Name'])}
                             ${player['Player Name']}
                         </td>
@@ -252,9 +252,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function getPlayerImage(playerName) {
         const playerImageName = playerName.split(' ').join('_') + '.png';
         const imagePath = `assets/images/players/${playerImageName}`;
-        return `
-            <img src="${imagePath}" onerror="this.style.display='none'" alt="${playerName}" class="player-headshot">
-        `;
+        return `<img src="${imagePath}" onerror="this.style.display='none'" alt="${playerName}" class="player-headshot">`;
     }
 
     // Load the CSV file and parse it

@@ -338,7 +338,6 @@ iframe {
     .top-panel a, .dropbtn {
         font-size: 14px; /* Further decrease font size for top-panel links */
         margin: 0 5px;
-        display: block; /* Ensure menu items stack vertically */
     }
 
     .team-logos img {
@@ -352,10 +351,6 @@ iframe {
 
     h2 {
         font-size: 20px; /* Further decrease font size for subheadings */
-    }
-
-    .sidebar input[type="date"] {
-        width: 100%; /* Make date input full width on small screens */
     }
 }
 
@@ -384,6 +379,14 @@ iframe {
     border-bottom: 1px solid #ccc;
     vertical-align: middle; /* Ensure vertical alignment */
     text-align: center; /* Center align the text */
+}
+
+#player-predictions-table .player-name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-weight: bold;
 }
 
 #player-predictions-table td:first-child {
