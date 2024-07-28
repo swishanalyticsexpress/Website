@@ -1,3 +1,4 @@
+/* Existing styles remain unchanged */
 body {
     background-color: #FFFFFF;
     color: #000000;
@@ -392,4 +393,22 @@ iframe {
 #player-predictions-table td:first-child {
     display: table-cell; /* Change to table-cell for proper alignment */
     vertical-align: middle; /* Ensure vertical alignment */
+}
+
+/* Responsive iframe container */
+.responsive-iframe-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
+}
+
+.responsive-iframe-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
 }
