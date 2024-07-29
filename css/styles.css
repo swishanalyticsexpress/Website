@@ -7,6 +7,10 @@ body {
     padding: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .container {
     width: 80%;
     margin: 0 auto;
@@ -265,31 +269,35 @@ iframe {
 }
 
 .predictions-table th, .predictions-table td {
-    padding: 15px;
+    padding: 15px 10px;
     text-align: center;
     transition: background-color 0.3s, color 0.3s;
+    border: 1px solid #ccc; /* Add border to cells */
 }
 
 .predictions-table th {
     background-color: #1F3B73;
     color: #FFFFFF;
     font-weight: bold;
-    font-family: 'Montserrat', sans-serif; /* Modern font */
+    font-family: 'Montserrat', sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 1; /* Make headers sticky */
 }
 
 .predictions-table td {
-    background-color: #F7F7F7; /* Light gray background for cells */
+    background-color: #F7F7F7;
     color: #000000;
-    border-bottom: 1px solid #ccc;
 }
 
 .predictions-table tr:nth-child(even) td {
-    background-color: #EFEFEF; /* Slightly darker gray for even rows */
+    background-color: #EFEFEF;
 }
 
 .predictions-table tr:hover td {
     background-color: #FFBF00;
     color: #0D254C;
+    cursor: pointer;
 }
 
 .predictions-table .team-name {
@@ -298,8 +306,16 @@ iframe {
 }
 
 .winner {
-    animation: winnerAnimation 1s infinite;
     position: relative;
+}
+
+.winner .winner-label {
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20px;
+    height: 20px;
 }
 
 @keyframes winnerAnimation {
@@ -441,4 +457,45 @@ iframe {
     width: 100%;
     height: 100%;
     border: 0;
+}
+
+button, input[type="date"] {
+    transition: all 0.3s ease;
+}
+
+button:hover, input[type="date"]:focus {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background-color: #0D254C;
+    color: #FFF;
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.footer-content p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons img {
+    width: 24px;
+    margin: 0 10px;
+    transition: transform 0.3s ease;
+}
+
+.social-icons img:hover {
+    transform: scale(1.2);
 }

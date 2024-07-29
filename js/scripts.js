@@ -31,6 +31,13 @@ document.addEventListener('DOMContentLoaded', function() {
         navRight.classList.toggle('active');
     });
 
+    document.querySelectorAll('.nav-left a, .nav-right a').forEach(link => {
+        link.addEventListener('click', () => {
+            navLeft.classList.remove('active');
+            navRight.classList.remove('active');
+        });
+    });
+
     // Function to populate the table with data
     function populateTable(data) {
         const dates = [...new Set(data.map(game => game["Date"]))];
@@ -128,12 +135,14 @@ document.addEventListener('DOMContentLoaded', function() {
             marginCell.className = 'score';
             marginCell.textContent = game['Margin'];
 
+            const winnerIcon = '<img src="assets/images/firepick.png" alt="Winner" class="winner-label">';
+
             if (game['Winner'] === game['Home Team']) {
                 homeTeamCell.classList.add('winner');
-                homeTeamCell.innerHTML += '<div class="winner-label">Winner</div>';
+                homeTeamCell.innerHTML += winnerIcon;
             } else {
                 awayTeamCell.classList.add('winner');
-                awayTeamCell.innerHTML += '<div class="winner-label">Winner</div>';
+                awayTeamCell.innerHTML += winnerIcon;
             }
 
             row.appendChild(dateCell);
