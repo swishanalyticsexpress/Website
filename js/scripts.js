@@ -77,33 +77,40 @@ document.addEventListener('DOMContentLoaded', function() {
             // Clear previous predictions
             predictionsTable.innerHTML = '';
 
-            // Create table header
-            const header = document.createElement('tr');
-            header.innerHTML = `
-                <th>Game Date</th>
-                <th>Home Team</th>
-                <th>Home Team Predicted Score</th>
-                <th>Away Team</th>
-                <th>Away Team Predicted Score</th>
-                <th>Total Predicted Score</th>
-                <th>Margin</th>
-            `;
-            predictionsTable.appendChild(header);
+            // Only create table header if there are games to display
+            if (selectedGames.length > 0) {
+                // Create table header
+                const header = document.createElement('tr');
+                header.innerHTML = `
+                    <th>Game Date</th>
+                    <th>Home Team</th>
+                    <th>Home Team Predicted Score</th>
+                    <th>Away Team</th>
+                    <th>Away Team Predicted Score</th>
+                    <th>Total Predicted Score</th>
+                    <th>Margin</th>
+                `;
+                predictionsTable.appendChild(header);
 
-            // Create table rows for each game
-            selectedGames.forEach(game => {
-                const tableRow = createTableRow(game);
-                predictionsTable.appendChild(tableRow);
-            });
+                // Create table rows for each game
+                selectedGames.forEach(game => {
+                    const tableRow = createTableRow(game);
+                    predictionsTable.appendChild(tableRow);
+                });
 
-            // Apply fade-in animation to the table
-            predictionsTable.classList.remove('fade-in');
-            void predictionsTable.offsetWidth; // Trigger reflow
-            predictionsTable.classList.add('fade-in');
+                // Apply fade-in animation to the table
+                predictionsTable.classList.remove('fade-in');
+                void predictionsTable.offsetWidth; // Trigger reflow
+                predictionsTable.classList.add('fade-in');
+            }
         }
 
         // Function to create a table row for a prediction
         function createTableRow(game) {
+            if (!game['Date'] || !game['Home Team'] || !game['Visitor Team']) {
+                return; // Skip rows with missing data
+            }
+
             const row = document.createElement('tr');
             row.className = 'fade-in'; // Apply fade-in animation
 
@@ -135,12 +142,12 @@ document.addEventListener('DOMContentLoaded', function() {
             marginCell.className = 'score';
             marginCell.textContent = game['Margin'];
 
-            const winnerIcon = '<img src="assets/images/firepick.png" alt="Winner" class="winner-label">';
+            const winnerIcon = '<img src="assets/images/firepick.png" alt="Winner" class="winner-label" style="background:none;">';
 
             if (game['Winner'] === game['Home Team']) {
                 homeTeamCell.classList.add('winner');
                 homeTeamCell.innerHTML += winnerIcon;
-            } else {
+            } else if (game['Winner'] === game['Visitor Team']) {
                 awayTeamCell.classList.add('winner');
                 awayTeamCell.innerHTML += winnerIcon;
             }
@@ -187,29 +194,32 @@ document.addEventListener('DOMContentLoaded', function() {
             // Clear previous predictions
             predictionsTable.innerHTML = '';
 
-            // Create table header
-            const header = document.createElement('tr');
-            header.innerHTML = `
-                <th>Game Date</th>
-                <th>Home Team</th>
-                <th>Home Team Predicted Score</th>
-                <th>Away Team</th>
-                <th>Away Team Predicted Score</th>
-                <th>Total Predicted Score</th>
-                <th>Margin</th>
-            `;
-            predictionsTable.appendChild(header);
+            // Only create table header if there are games to display
+            if (selectedGames.length > 0) {
+                // Create table header
+                const header = document.createElement('tr');
+                header.innerHTML = `
+                    <th>Game Date</th>
+                    <th>Home Team</th>
+                    <th>Home Team Predicted Score</th>
+                    <th>Away Team</th>
+                    <th>Away Team Predicted Score</th>
+                    <th>Total Predicted Score</th>
+                    <th>Margin</th>
+                `;
+                predictionsTable.appendChild(header);
 
-            // Create table rows for each game
-            selectedGames.forEach(game => {
-                const tableRow = createTableRow(game);
-                predictionsTable.appendChild(tableRow);
-            });
+                // Create table rows for each game
+                selectedGames.forEach(game => {
+                    const tableRow = createTableRow(game);
+                    predictionsTable.appendChild(tableRow);
+                });
 
-            // Apply fade-in animation to the table
-            predictionsTable.classList.remove('fade-in');
-            void predictionsTable.offsetWidth; // Trigger reflow
-            predictionsTable.classList.add('fade-in');
+                // Apply fade-in animation to the table
+                predictionsTable.classList.remove('fade-in');
+                void predictionsTable.offsetWidth; // Trigger reflow
+                predictionsTable.classList.add('fade-in');
+            }
         });
 
         // Trigger change event to initialize

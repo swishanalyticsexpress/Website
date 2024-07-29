@@ -155,15 +155,12 @@ h2 {
 
 .team-name .winner-label {
     position: absolute;
-    top: -15px;
+    top: -5px;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #FFBF00;
-    color: #0D254C;
-    font-size: 14px;
-    font-weight: bold;
-    padding: 2px 5px;
-    border-radius: 0; /* Change to square corners */
+    width: 20px;
+    height: 20px;
+    background: none; /* Remove background color */
 }
 
 .in-progress {
@@ -303,19 +300,6 @@ iframe {
 .predictions-table .team-name {
     font-size: 18px;
     font-weight: bold;
-}
-
-.winner {
-    position: relative;
-}
-
-.winner .winner-label {
-    position: absolute;
-    top: -5px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 20px;
-    height: 20px;
 }
 
 @keyframes winnerAnimation {
